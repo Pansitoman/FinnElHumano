@@ -6,24 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: "Assets/Scenes/Men\xFA inicio.unity"
+    path: "Assets/Scenes/0 Men\xFA inicio.unity"
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: "Assets/Scenes/Men\xFA principal.unity"
+    path: "Assets/Scenes/1 Men\xFA principal.unity"
     guid: f7f6cae28f5041e4d91ac2863e534e21
   - enabled: 1
-    path: Assets/Scenes/Pantalla de opciones.unity
+    path: Assets/Scenes/2.Pantalla de opciones.unity
     guid: e4de4e89481b8bf4a9f7e7733c8f8749
   - enabled: 1
-    path: Assets/Scenes/lvl1.unity
+    path: Assets/Scenes/3. LVL 1.unity
     guid: 7143db312dd68314c8472c2e5806de0a
   - enabled: 1
-    path: Assets/Scenes/Informacion desarrollador.unity
+    path: Assets/Scenes/4. LVL 2.unity
+    guid: 9fc4e13294661444f92ede0b064f25c4
+  - enabled: 1
+    path: Assets/Scenes/5. LVL 3.unity
+    guid: 9295dbd554dd6d34194a536bff41e9d4
+  - enabled: 1
+    path: Assets/Scenes/6.Informacion desarrollador.unity
     guid: 72a696a2cfc7aab478620005cdafc6c6
   - enabled: 1
-    path: Assets/Scenes/Difilcultad.unity
+    path: Assets/Scenes/7.Difilcultad.unity
     guid: 141033d8b317d834783765f76e4c4474
   - enabled: 1
-    path: Assets/Scenes/lvl 2.unity
-    guid: 9fc4e13294661444f92ede0b064f25c4
+    path: Assets/Scenes/8.NIVELES.unity
+    guid: fc1051d6edcf5b945863a8db4398d23b
   m_configObjects: {}
